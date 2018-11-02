@@ -1,0 +1,9 @@
+.employeesTable{
+	border-collapse: collapse;
+	margin: 20px 0;
+}
+
+.employeesTable td{
+	border-bottom: 2px solid lightgray;
+  	padding: 10px;
+}
